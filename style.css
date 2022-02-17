@@ -1,0 +1,16 @@
+label {
+    font-weight: 600;
+    width: 60px;
+    text-align: right;
+}
+input {
+    background: #e3e1e1;
+    border: 0px;
+    padding: 5px;
+}
+input:focus{
+    outline: none;
+}
+#save_field{
+    width: 80px;
+}
